@@ -11,7 +11,7 @@ class Candidate extends Model
 
     public const STATUSES = [
         'submitted' => 'Diajukan',
-        'reviewed'  => 'Direview',
+        'reviewed'  => 'Sedang Diverifikasi',
         'accepted'  => 'Diterima',
         'rejected'  => 'Ditolak',
     ];
